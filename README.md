@@ -54,9 +54,6 @@ Start your app in development mode at `http://localhost:3000/api-docs`
 │   │   ├── users.controller.ts
 │   │   └── verifiers.controller.ts
 │   │
-│   ├── /database
-│   │   └── index.ts
-│   │
 │   ├── /dtos
 │   │   ├── provers.dto.ts
 │   │   ├── users.dto.ts
