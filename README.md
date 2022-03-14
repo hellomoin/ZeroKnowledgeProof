@@ -1,4 +1,4 @@
-# Car Management Portal
+# Zero knowledge proof
 
 ## Requirements
 * Design and write the code that implements the ZKP Protocol (see src/utils/zkp.ts) ✔️
