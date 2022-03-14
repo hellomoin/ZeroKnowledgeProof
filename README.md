@@ -8,7 +8,7 @@
 * Wrapping the code within a service✔️
 * Use Typescript instead of RUST as language for the quick implementation ✔️
 * Containerize the solution by writing a valid Dockerfile ✔️
-* Provide a dockercopmose file which references your Docker image and the official MongoDB docker image. ✔️
+* Provide a dockercopmose file which references your Docker image. ✔️
 * Use Swagger for API documentation ✔️
 
 ## Deliverables
